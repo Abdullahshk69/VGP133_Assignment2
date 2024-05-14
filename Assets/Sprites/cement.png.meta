@@ -1,0 +1,6107 @@
+fileFormatVersion: 2
+guid: 282097ca38146dd4eacbcda96c9e43cc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cement_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e504c2dabbb954685612412ca7375d
+      internalID: 703263602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1e33659fc5a4b49a9beac227ebcd76
+      internalID: 101325396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de95b56254e395a429dff8d33305463d
+      internalID: 1407366725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3643021c5d414534792f9790f6d4bdb8
+      internalID: 1376165494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2114f828082b14eb1ca44c3f762d89
+      internalID: -1070861774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0d2302e0c38ad4f8d558e29cf4496c
+      internalID: -836348455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2742022e4e911f43b7fadba7c31ba1c
+      internalID: -791923128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b171e60a6fba2614da5182d31c227e6d
+      internalID: 1795158809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2c135aa2c2cd54f9b5ec4e4d148a75
+      internalID: -2025514240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403d4583836c12647ae9a62f6cbf5f2e
+      internalID: 1247782329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c36b30097912b459d41ab50becbac1
+      internalID: -1518084194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696e9757e869fac4bb710570eab45d76
+      internalID: -1623088319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2496e2ce0f486045affac0de509cb9f
+      internalID: -1186166430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba2c57e2d21f884e994176bf3ca81db
+      internalID: -555485939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1ef1004453c3347b5e9c4bb871031e
+      internalID: -1149471494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 112.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f6b15550e0ae742ac8e6b7e08e0bf8
+      internalID: 176704123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b2135617dd3a84fa264053ee1a6d13
+      internalID: -1192711550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7586af65824185b40a4c20390e4b6c41
+      internalID: -1385472901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fc2c90842291b4ba074f2ff48db48e
+      internalID: -766221283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478144d3bd6e5ba48a8df6cb2de2cf64
+      internalID: 885947661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9259c271452754daf7c6d2acf33f1b
+      internalID: 218191399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473afbadd5c4ee54b9293f7ed05a1f30
+      internalID: -1413538709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262c50ec732670749aa56fed25ae4b28
+      internalID: 486970130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d47950545e358439f0fd1b4ae9ea4a
+      internalID: 555347713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bcd5e8010617b45beb73da9c66f214
+      internalID: -198122535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8909540ebf6ee81468c1003d3358fd10
+      internalID: 139470686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6eb52231e3bdc44b4172154eeea8ac
+      internalID: -2031620977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22104a8dd56210e46b93278e61e0281a
+      internalID: -906781505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efab85ad0239304ab0ddcfe897eaeae
+      internalID: -1240741913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8bfee04c8c9614f9d760b00e044073
+      internalID: 882615826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997d39cbdc0dc7b49949e0e0caabf9ca
+      internalID: -107364463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 105.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fea7655e926ea143939d33dcc412afa
+      internalID: -665635920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f372be0cbb5674e9df6c203500a054
+      internalID: -1820723976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc47851618bb8945a5ff1a28568d5c7
+      internalID: -1435967605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcc99a437196e0488f4c19f92890e88
+      internalID: -1400978889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669029ea034ab744685026aa9fdc1538
+      internalID: -1533574663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec8793458c43244e99f5d65ecc4f524
+      internalID: -364099021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358520f68543e5f4086ae2c767ac6166
+      internalID: 202028081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee4a3c3151b9344b9b66f2225b464e7
+      internalID: 1569785600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_39
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab27e852e4ea934b9acfc8ee086e56a
+      internalID: -1073134904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66f52b4beb4b8e4894dc7953589e3d5
+      internalID: 941412570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0bd8b055049364aa2d838ab2450f85
+      internalID: 1298875272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_42
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461dcb2693305ca4db45ebace00d2564
+      internalID: 823153642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49217bcfa58537d46a2dfc081162cfe0
+      internalID: 1851973233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_44
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cd445e35c6e684e8fddb2c07fe062d
+      internalID: -1464467178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_45
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec644d0cb134904a93701255caa8351
+      internalID: 1501641757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_46
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65b79e16164f204faa42118ded6b646
+      internalID: -1252436978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 98.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ed99f33e569e74fa578a6b7adb540e
+      internalID: -707344952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf75253255cc49a48884a018eeac81a7
+      internalID: -789886964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42b3086570e8e5489bcca58bceb90e7
+      internalID: 26458722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d771cdb61e4831e44bb7ca250dc1c2b8
+      internalID: -829926228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300ff3496aa557b4ab4e13a37f1461e2
+      internalID: -557453892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_52
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4a67ed854df5048b77fa2dd796d88a
+      internalID: -1098265885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74b0f6f88058ed4d96c2433b2c7b6da
+      internalID: 963964149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38e4bca01276354ba5ec2fa13399f68
+      internalID: -84467081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_55
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6f238e6442647428ee8a2abb7076b5
+      internalID: -649772094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_56
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0e12757382c9542b8e3032ca9772b3
+      internalID: 1801339534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_57
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bee3c85fb00c5a439bdd05f87009e41
+      internalID: 49615949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_58
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7fc31f4a6652346a468270769a94fe
+      internalID: 560607343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_59
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3861a93307667f45b74994231acc4fd
+      internalID: 1527630459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_60
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574f508e8f1415d4a9b5c777912b63ec
+      internalID: 621653946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_61
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc57a0f7e0d6c1b4fa81ef11056638b5
+      internalID: -500739884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_62
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a762fcb66066bd4ba9be531e77b27cc
+      internalID: 1831363028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_63
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 91.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06f8aaddbb65db4a878518d75b8d037
+      internalID: 1698614066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc7e7d26b21db44c950fd2697b9686f
+      internalID: -350431042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2378bf4ae8c31df4ebeceab9df8a1308
+      internalID: -530062593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c3d49fee3e3c44298f702794a92b8e
+      internalID: 322670787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_67
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58945e5761d8aa45959700a6dbdd08e
+      internalID: -89146271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3697b72ff7413b249ab16ecf799f13b2
+      internalID: 1409993066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97c8383304eb5048835cd136f4097a0
+      internalID: 1060173956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_70
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ec2a9263cdb8a46924a572d6c8ccfa
+      internalID: -1272770826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_71
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8f8c73da158bf4abbf954fdec240bc
+      internalID: -1193187942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550dd0eb75c850542bedf9cd7133ac0e
+      internalID: -1307476133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_73
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccfc57a84e37b841827ca8be457149a
+      internalID: 961316711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_74
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9415ad6603ed7ae4faaea6e90cdc4bf1
+      internalID: -1891021226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_75
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da3661bfc3a31f4da77c1be9f0dfc86
+      internalID: 1251632346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_76
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad1232ce23d8c04dbf1ce4a37ef566f
+      internalID: -120793183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_77
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5227f0a0114bb9448e6fbac772e3f38
+      internalID: 113328368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_78
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61647b8c443e25d4781e4ceed6ccb537
+      internalID: -1024381956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_79
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 84.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d5a9ba0bdcef04aa8f00c0ee2d9edd
+      internalID: 1407182481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075f14df50eb61341ab66880535ba8fb
+      internalID: 1332017893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4b968410332c2408abe03660473bd7
+      internalID: -2140608006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba443646c97465488f384779cac13f4
+      internalID: 989761134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cb7ccce8b5c334da74ab78d545c96c
+      internalID: 1521373491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97c1cbadeee0194e9815ef74c541dcd
+      internalID: -1697058183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_85
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b0eb34f74de7d48a25d61949912a7b
+      internalID: -1224491476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_86
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319724fd602806d439c74fe34d20cccb
+      internalID: 608765442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_87
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb41fccc171b79e4eaabc9bfc21e1ebb
+      internalID: 1204615752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_88
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c4627f338b9c24eadd764863655c53
+      internalID: -1266221413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_89
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f112b5fb8730bba42bbe356a534b7e77
+      internalID: 1997317132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_90
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbdb26b9e9ec5a48ac351280dffcb1f
+      internalID: -2017865128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_91
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9560e3f2360c03047bc7183457258530
+      internalID: -1598694096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_92
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82325e9542c32c54e88a95e40d2ee3ce
+      internalID: -90127398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_93
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fe08441131be847a05c4290d83fa1e
+      internalID: -401061729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_94
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03af93378c0c7d4f91345400cb9e5b8
+      internalID: -1731987921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_95
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 77.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec086f101b790f4d8a562c771ca3366
+      internalID: 1211234373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd3eeaba90a0434cbed963481901012
+      internalID: 1723569633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_97
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82812c7a0da3204394cc3a1d11a6724
+      internalID: 964043353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_98
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585d27217eaaec34e81aa3a3a56a1c10
+      internalID: -1015450566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_99
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caaf28b9f0c8614282618b31faa98bb
+      internalID: 1113008862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb60ac731f484d041b1b0d790a13216d
+      internalID: -1937280689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_101
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acacee21b3243304b92875e0d0e0d7c7
+      internalID: 1471910955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_102
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ff2e70cd5feeb408d46bea6394df0c
+      internalID: 1412452833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_103
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8453a98f1c126fe45a04d8a762f1668b
+      internalID: 562057110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_104
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139ededf4533a6c4486eabd7be2e242d
+      internalID: -1722131146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_105
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa3725b419b1594496d14d3f7829da7
+      internalID: 2089864502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_106
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81e1b919309e67479fe736daf479f13
+      internalID: 504017970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_107
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04f1017fad424c4d99ee95e717d7f83
+      internalID: -1985828998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_108
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaaddf6735407941b681c90f9475567
+      internalID: 1193241396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_109
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926ef43a690a29743a3d6c34042fe008
+      internalID: -109945228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_110
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c86f993cdef1043865e499098e5e47
+      internalID: -1532508748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_111
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 70.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e54c6c5ab6bc04da270168477fcb8a
+      internalID: 689547568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68218920c9e353a4cbe47331a45be3da
+      internalID: 23452116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_113
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c313b462498a9041bf597444756f591
+      internalID: 1044071632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_114
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c14e6b3f8f0fdd40a603a7205296996
+      internalID: -64116988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_115
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807eac9b69b29c94e82b3120ba6a0a3c
+      internalID: -797062429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_116
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c129deac05dd211488580dbe8d47940e
+      internalID: -1442760596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_117
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3655690b482258419dd4c89519778ac
+      internalID: 490828512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_118
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126a05190ae358141a1226cc6b693d7e
+      internalID: -68583714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_119
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18bfc319fe809149bc84c6a24a83938
+      internalID: -324240694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_120
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207bf4eb8f28c7c4fa74ab8460e65281
+      internalID: 1077366103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_121
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c8ecf3143f64f48a9fd15cfbd0d3b6
+      internalID: -698535084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_122
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff940b68910276b4bb9718c09a641db8
+      internalID: 1954443052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_123
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0c34d9ce0f02046a33858e77ec625e
+      internalID: -514066532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_124
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af03336174162014c99cc051afd803b3
+      internalID: 242706675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_125
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b8e435d634967449d5726d4fc05bef
+      internalID: 1814906209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_126
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8603d71dd4ea56e4a9890c635764c1c1
+      internalID: 724599146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_127
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 63.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ebeb333778d5f4d819a7b82c9eb887
+      internalID: -1906832689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eaaab7f5e29974fad7706275f70686
+      internalID: 957003475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_129
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19678b81a5e951445acdda8d3ee8cad7
+      internalID: 280165381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_130
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9cfb12e1195784a86d01e59550fe40
+      internalID: -48987896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_131
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291ccffc9df66704fa1f36d18078e6aa
+      internalID: -2142425648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_132
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f361d44ce5f2ee429d6a33f8f2bb7d6
+      internalID: -1237285609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_133
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07caaf6d5fb166e40abf9235c243d54e
+      internalID: -944219263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_134
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7524a756b731d8a40b8e6d541df74eef
+      internalID: 576413361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_135
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018f2e6d12993a946a248d76a96664ac
+      internalID: 540260165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_136
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c02e3d4ac4af8b48b8b19fd9cac0ef1
+      internalID: 77985486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_137
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1affd82925baf1640936fc344b923910
+      internalID: 1979992243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_138
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca0d3edce7b73648a3a767eeaed3d5b
+      internalID: -659586518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_139
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca9b85d80bc88945af7cd8f5fb624b1
+      internalID: 18466937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_140
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793fe6100e071ca4db38679396c88507
+      internalID: 295491747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_141
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a069f899be2034090f9c4f45bbad07
+      internalID: -213790769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_142
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d8ca0785fa810489d9b43047443107
+      internalID: -1354999458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_143
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 56.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ed5955a5e9f4e40a2746d850198f4d
+      internalID: -1471148791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2313de905ffe92b4baa8ac7204ab7bf6
+      internalID: 488689976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_145
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc65a0415264844293ba5ca7dd3afe0
+      internalID: 655184363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_146
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dc39dbfcd7f9e42842b325ead6b46c
+      internalID: -906342440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_147
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d97cc308b4e964d857d400faa90534
+      internalID: 335456623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_148
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daea29a7ae5eb94f86a5a4d152414e6
+      internalID: -34070292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_149
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86c1f388d39bdb48bd3a004d0c4e5ac
+      internalID: -1053822757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_150
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e21b0b8cb635a42b9749eec372ff36
+      internalID: 1124971725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_151
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3c27bc455003446bbd018fe2227a45
+      internalID: 587024990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_152
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1614e5068818dfb4ca4a25eb54f89736
+      internalID: 732360940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_153
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f8a1310f76d2c468a2eb320af090c9
+      internalID: -111222443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_154
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b71c53a4ec5dc944996f24b8ad26414
+      internalID: 1267189869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_155
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2ab2434c81e48469410b57e1a390a3
+      internalID: 783983375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_156
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d2a77e0d8d4e24eaa275430c539e46
+      internalID: 924940320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_157
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4700ff53effd84cbb7a1860e82ecc8
+      internalID: -983612856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_158
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442c8e656240cba48a07b13b1986f417
+      internalID: 898417419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_159
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 49.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143de6f5a957776428c587f9d2e33f2b
+      internalID: 1072323832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86381b669d6f6b4cb5c1daef8c05d1d
+      internalID: -1734241914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_161
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9696a2eb525d69a43bfb1cd816f016a8
+      internalID: 1099179846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_162
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b237a8270ee83fc4cab66e580b62a331
+      internalID: -524019629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_163
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4a69c4b2011b642881346b4f5fa749
+      internalID: -855323049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_164
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4b1a6f87a71e14bbe45b6bfa3487f7
+      internalID: 1235305885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_165
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b02ab1d189ffe449b30ee8a1c65306
+      internalID: 1207838195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_166
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410031784535bfd4f93674c8722716b4
+      internalID: 1405890276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_167
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1c4b8f3588efd408d46535033655f6
+      internalID: 1305233179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_168
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2fa41ba1ac1614981d81bd3d8b0ec9
+      internalID: 741358762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_169
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf4b6b1f0f00e74cbd6da234bafce5a
+      internalID: -1165578179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_170
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81707f64f32e7504a8cbd1c80b74d253
+      internalID: 238555693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_171
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed76788e5e8db74fab798be7e23c834
+      internalID: -994480315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_172
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bcad6493f14044789e90a208413ab4
+      internalID: 1238565506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_173
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cbafc44df6773488bbd716620ba40b
+      internalID: -426823930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_174
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42947d8b68e4b84fa49b9b82a0d5716
+      internalID: 445945552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_175
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 42.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ce2127b87f3a54da10b96afc3aa57a
+      internalID: 1940931061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732b84fa4ce560b44a20ea5ec3f60720
+      internalID: -373061497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_177
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e29460f0c59744b320493cb2b7eea
+      internalID: -121553079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_178
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bf4e7d094c6d84f91350afc4315285
+      internalID: 1940105314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_179
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa30197a971dc845a38100f570455fd
+      internalID: -994969929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_180
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fc05db359691d41891fabd160acf8a
+      internalID: -1477188350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_181
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a2cc6b4fea86947af3f351afb29885
+      internalID: 321602339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_182
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efccd812447e8d43ac681486a157a28
+      internalID: -188264216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_183
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412facca37c37ee40bec47dfaedc5892
+      internalID: 571587477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_184
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c85467b89d90e1459b308b5d2c866f6
+      internalID: 781516078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_185
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d124c0f984a34bd4992fb2c2f0875362
+      internalID: -102193765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_186
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588fa2da6fbc44449ba954a951e6200c
+      internalID: -2051933985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_187
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9490a712fc5cd044f9bc69bf40556b58
+      internalID: -1573713971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_188
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb64426aa177804e93476461ea877e3
+      internalID: 1101706327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_189
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1187bc1c7c46bee4c9d34a499bc88564
+      internalID: -2066007729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_190
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854cba2be1c34b74abc681608c3b4b29
+      internalID: 165829708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_191
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 35.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77d04d1021e93648a422b9bfe45bede
+      internalID: -25059659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962a505e9aabbd949a7b6b31c01591e1
+      internalID: 1949776173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_193
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1d282a5784e3c469d3c8331b660a06
+      internalID: 1252999951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_194
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a27cec964c8d0b4890c08fd6a2c0eb1
+      internalID: 1471252037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_195
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79222e1c510d4c347999a6e7caaa6fdb
+      internalID: -1258659375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_196
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5e0aceff13c9c4b8fbdc98b7cc6787
+      internalID: 1745861724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_197
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9237c21e26916fa4d838ba478dec5ede
+      internalID: -329395690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_198
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bd2660a53c8ac45b67aba97e922da6
+      internalID: 1626511640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_199
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5ea74a582ae4d4a891b89c46efac27
+      internalID: 1930299955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_200
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56415a3cf7bf7974e9fb2cf58cb17fbd
+      internalID: -889098960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_201
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7864589b324aa3c44b1be15fb353d676
+      internalID: -529102969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_202
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff0c26db1e577748843d73de30bff49
+      internalID: -1057918064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_203
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1689f35d0281bd541a09f57b3c68d728
+      internalID: -1817726485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_204
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c8feefda2240f48b7b2902c8b79da4
+      internalID: -1848326361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_205
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce2ae639c3e8bd4598bfb8c3414efa3
+      internalID: -511727303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_206
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cc2d734f0f84749b064d5e992295f4
+      internalID: -1485855052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_207
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 28.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b01a6badc2f91438f998b48aea7c6e
+      internalID: 1586361034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28745082d656838468c565815cf4fe50
+      internalID: -334355092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_209
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3e99c89663082478689c3fd0159569
+      internalID: 1019205922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_210
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99766940314d9264a810952550b5a741
+      internalID: -1078492223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_211
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cef8499efc7524eae978fcae554246
+      internalID: -212605505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_212
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0150a5ad21d464da3db0b944d07b29
+      internalID: -773690272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_213
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8788091f14f86104c8b18edd3e4d4b55
+      internalID: -2135447402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_214
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236c29f7fb9a3e047be7d045d1e657d6
+      internalID: 1822042067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_215
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39ad1f96a2f07040b41dcad4bcf1dd8
+      internalID: -1355878818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_216
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ec4733a4b0ce5458cfbb14bef2d5fe
+      internalID: 591225755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_217
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1130984de54404abf48f3e6589a414
+      internalID: 2105769406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_218
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e8418d88cc9d84d96eb1c2012afca6
+      internalID: -388681428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_219
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7584fcf4f2fca4c809263b047e1985
+      internalID: -1925042564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_220
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69718d717d4324648a7530e996c72e48
+      internalID: 1031540240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_221
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e685c8c857b0c4f89b07bf399c7a44
+      internalID: -2012652025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_222
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06763b1fda24b4f418686bc2b8023a98
+      internalID: 1169782083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_223
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 21.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cf367210d118f4f9edc3259b4974dd
+      internalID: 269969762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22af86375c92e0e4c8d757c775e99441
+      internalID: 1034266788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_225
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927b7fb6a3afdef4ea922ca8f9584b81
+      internalID: -585048458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_226
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad649489cd109804f851d6a882ee8c24
+      internalID: -823064307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_227
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab93ed0a12d62fa4f8e446ba2de1ea53
+      internalID: -2043364854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_228
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f468f9090c7744ebbd9c048ab29042
+      internalID: 346450562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_229
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90cf5c20d4c39045922cc963ddf7297
+      internalID: -191193005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_230
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307f7403fe9c8bc46a0e87b71dcb61c6
+      internalID: -1089326489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_231
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab950eada8ef004a8bad756c0cf10fc
+      internalID: 682502973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_232
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaf4137755ad124088870ee9efd7caa
+      internalID: 1100388666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_233
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c32a153adeec64d925cdfd47c730a3
+      internalID: 530405152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_234
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7357c681c44f85840bdbe79cf095a02c
+      internalID: -890870816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_235
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7cb403e8dd033498ffb3d88dce1ff3
+      internalID: 615751719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_236
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a58bf1ff54e95f4d874176ed603596d
+      internalID: -1600740387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_237
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aaa4e803dc176489ef68c00bb83326
+      internalID: 1169558505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_238
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af7eac7230714643b1d5e80895c350a
+      internalID: -1632699198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_239
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 14.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e451b0bfe5228a4458008a26d6251cfb
+      internalID: -1794246332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d28211f075e4047a40d3982d26f4c1
+      internalID: -746894134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_241
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37741f7feb9e6a147b11317d003ec95f
+      internalID: 715028858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_242
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc8f7e303a8c4e46a26b720c1b96967
+      internalID: 454104529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_243
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceb37fb5e3654f418904999ac99b6e3
+      internalID: 515305485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_244
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e6ee6dcf7adff4aa5d546f86bf1120
+      internalID: 1220923911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_245
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09e3639b5f56974e93952c08cfa6c7e
+      internalID: 1253743066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_246
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fa630cfdfa12b4bb0a4477acbcdc7d
+      internalID: -1525315737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_247
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f744ebf1423faf47aca36c45b95f009
+      internalID: -1773952236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_248
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cf0fd51ff286b4ea659dea17eb4bf0
+      internalID: -2022417459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_249
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a057ac886cc0d6d4694d6b4ac97a6615
+      internalID: 1628527846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_250
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cb7cc108e41764e933879ccef5b7eb
+      internalID: -121849126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_251
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2238939f23a5f48bc745ffccb55ff6
+      internalID: 1889145326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_252
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c57c5cb6ee42dd498d2d3bdaa380bb8
+      internalID: 1303968615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_253
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a99e67e55a010439e70afc323e704c
+      internalID: -1202676306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_254
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b713d54ee89da5e49ab8635072354f2d
+      internalID: -1534284957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_255
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 7.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8a7fe35ac1bab4385daa9d0b660b93
+      internalID: 1720363142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_256
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc12d4f9f6661654d9dbb9ae6c18fc97
+      internalID: 135257969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_257
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7318fa46ddedd6c4a9cc0f41a42f8d41
+      internalID: 11512958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_258
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827b2ace34209a04fb277fe029164213
+      internalID: 233459874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_259
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a941f4cdeca67d42bd31a3bc84308e1
+      internalID: -538402256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_260
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a916a8a94a5ed314c81824c62b0fc4e3
+      internalID: 267426168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_261
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a3df934cea4454e87cbc3750932bbc
+      internalID: -405340124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_262
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bf89266ad574a469d7325eda10ba7f
+      internalID: 1768018364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_263
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcf64f96e2377342b1cfbcce1a88bd1
+      internalID: 547082973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_264
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b293ee90ef9d87d4aa456ad27ada507e
+      internalID: -600666644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_265
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ab02cb52b2a154398597353ed1be03
+      internalID: -890244450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_266
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31394887fe03f0b448e5fd9dd0a18e17
+      internalID: -1744744447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_267
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac6335b34b7ff34190333ab828a66f6
+      internalID: 1443131118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_268
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b609150ebb2b843a649c72cea88f48
+      internalID: 1514150011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_269
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338343a1962726d4b950e37a2ffcadf9
+      internalID: 1429711531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_270
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62416f56c3b0d4840873ce45b3875935
+      internalID: 675116569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cement_271
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0.5
+        width: 3
+        height: 7.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83245e4b9d65d324b8d2b26d644d46da
+      internalID: -1069123832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cement_36: -364099021
+      cement_59: 1527630459
+      cement_174: 445945552
+      cement_234: -890870816
+      cement_122: 1954443052
+      cement_218: -388681428
+      cement_175: 1940931061
+      cement_236: -1600740387
+      cement_98: -1015450566
+      cement_224: 1034266788
+      cement_89: 1997317132
+      cement_269: 1429711531
+      cement_138: -659586518
+      cement_83: 1521373491
+      cement_130: -48987896
+      cement_237: 1169558505
+      cement_17: -1385472901
+      cement_67: -89146271
+      cement_221: -2012652025
+      cement_163: -855323049
+      cement_240: -746894134
+      cement_267: 1443131118
+      cement_71: -1193187942
+      cement_74: -1891021226
+      cement_232: 1100388666
+      cement_250: -121849126
+      cement_188: 1101706327
+      cement_226: -823064307
+      cement_149: -1053822757
+      cement_119: -324240694
+      cement_189: -2066007729
+      cement_34: -1400978889
+      cement_202: -1057918064
+      cement_24: -198122535
+      cement_97: 964043353
+      cement_31: -665635920
+      cement_22: 486970130
+      cement_16: -1192711550
+      cement_214: 1822042067
+      cement_254: -1534284957
+      cement_69: 1060173956
+      cement_55: -649772094
+      cement_115: -797062429
+      cement_135: 540260165
+      cement_160: -1734241914
+      cement_56: 1801339534
+      cement_211: -212605505
+      cement_127: -1906832689
+      cement_51: -557453892
+      cement_102: 1412452833
+      cement_178: 1940105314
+      cement_73: 961316711
+      cement_20: 218191399
+      cement_203: -1817726485
+      cement_28: -1240741913
+      cement_209: 1019205922
+      cement_23: 555347713
+      cement_120: 1077366103
+      cement_87: 1204615752
+      cement_172: 1238565506
+      cement_265: -890244450
+      cement_225: -585048458
+      cement_156: 924940320
+      cement_3: 1376165494
+      cement_253: -1202676306
+      cement_195: -1258659375
+      cement_141: -213790769
+      cement_229: -191193005
+      cement_159: 1072323832
+      cement_60: 621653946
+      cement_148: -34070292
+      cement_118: -68583714
+      cement_162: -524019629
+      cement_200: -889098960
+      cement_121: -698535084
+      cement_79: 1407182481
+      cement_210: -1078492223
+      cement_260: 267426168
+      cement_145: 655184363
+      cement_106: 504017970
+      cement_38: 1569785600
+      cement_184: 781516078
+      cement_206: -1485855052
+      cement_43: 1851973233
+      cement_128: 957003475
+      cement_213: -2135447402
+      cement_46: -1252436978
+      cement_0: 703263602
+      cement_105: 2089864502
+      cement_190: 165829708
+      cement_76: -120793183
+      cement_112: 23452116
+      cement_12: -1186166430
+      cement_261: -405340124
+      cement_18: -766221283
+      cement_57: 49615949
+      cement_176: -373061497
+      cement_230: -1089326489
+      cement_85: -1224491476
+      cement_88: -1266221413
+      cement_170: 238555693
+      cement_104: -1722131146
+      cement_166: 1405890276
+      cement_9: 1247782329
+      cement_223: 269969762
+      cement_10: -1518084194
+      cement_153: -111222443
+      cement_63: 1698614066
+      cement_41: 1298875272
+      cement_53: 963964149
+      cement_196: 1745861724
+      cement_61: -500739884
+      cement_109: -109945228
+      cement_144: 488689976
+      cement_70: -1272770826
+      cement_64: -350431042
+      cement_107: -1985828998
+      cement_48: -789886964
+      cement_95: 1211234373
+      cement_173: -426823930
+      cement_7: 1795158809
+      cement_251: 1889145326
+      cement_113: 1044071632
+      cement_152: 732360940
+      cement_165: 1207838195
+      cement_171: -994480315
+      cement_108: 1193241396
+      cement_207: 1586361034
+      cement_116: -1442760596
+      cement_78: -1024381956
+      cement_13: -555485939
+      cement_58: 560607343
+      cement_243: 515305485
+      cement_182: -188264216
+      cement_168: 741358762
+      cement_257: 11512958
+      cement_86: 608765442
+      cement_264: -600666644
+      cement_256: 135257969
+      cement_11: -1623088319
+      cement_219: -1925042564
+      cement_193: 1252999951
+      cement_169: -1165578179
+      cement_47: -707344952
+      cement_114: -64116988
+      cement_68: 1409993066
+      cement_133: -944219263
+      cement_66: 322670787
+      cement_29: 882615826
+      cement_54: -84467081
+      cement_40: 941412570
+      cement_49: 26458722
+      cement_204: -1848326361
+      cement_271: -1069123832
+      cement_258: 233459874
+      cement_65: -530062593
+      cement_249: 1628527846
+      cement_37: 202028081
+      cement_62: 1831363028
+      cement_177: -121553079
+      cement_143: -1471148791
+      cement_103: 562057110
+      cement_111: 689547568
+      cement_125: 1814906209
+      cement_14: -1149471494
+      cement_35: -1533574663
+      cement_6: -791923128
+      cement_5: -836348455
+      cement_81: -2140608006
+      cement_201: -529102969
+      cement_100: -1937280689
+      cement_241: 715028858
+      cement_216: 591225755
+      cement_117: 490828512
+      cement_245: 1253743066
+      cement_215: -1355878818
+      cement_140: 295491747
+      cement_212: -773690272
+      cement_52: -1098265885
+      cement_222: 1169782083
+      cement_208: -334355092
+      cement_139: 18466937
+      cement_4: -1070861774
+      cement_151: 587024990
+      cement_8: -2025514240
+      cement_45: 1501641757
+      cement_131: -2142425648
+      cement_238: -1632699198
+      cement_179: -994969929
+      cement_90: -2017865128
+      cement_259: -538402256
+      cement_126: 724599146
+      cement_92: -90127398
+      cement_192: 1949776173
+      cement_199: 1930299955
+      cement_161: 1099179846
+      cement_255: 1720363142
+      cement_217: 2105769406
+      cement_180: -1477188350
+      cement_239: -1794246332
+      cement_30: -107364463
+      cement_197: -329395690
+      cement_21: -1413538709
+      cement_77: 113328368
+      cement_134: 576413361
+      cement_1: 101325396
+      cement_80: 1332017893
+      cement_231: 682502973
+      cement_248: -2022417459
+      cement_33: -1435967605
+      cement_84: -1697058183
+      cement_205: -511727303
+      cement_25: 139470686
+      cement_157: -983612856
+      cement_181: 321602339
+      cement_32: -1820723976
+      cement_15: 176704123
+      cement_50: -829926228
+      cement_185: -102193765
+      cement_164: 1235305885
+      cement_252: 1303968615
+      cement_266: -1744744447
+      cement_247: -1773952236
+      cement_186: -2051933985
+      cement_110: -1532508748
+      cement_96: 1723569633
+      cement_19: 885947661
+      cement_187: -1573713971
+      cement_93: -401061729
+      cement_198: 1626511640
+      cement_39: -1073134904
+      cement_228: 346450562
+      cement_167: 1305233179
+      cement_72: -1307476133
+      cement_2: 1407366725
+      cement_191: -25059659
+      cement_270: 675116569
+      cement_233: 530405152
+      cement_137: 1979992243
+      cement_154: 1267189869
+      cement_26: -2031620977
+      cement_194: 1471252037
+      cement_142: -1354999458
+      cement_242: 454104529
+      cement_220: 1031540240
+      cement_27: -906781505
+      cement_147: 335456623
+      cement_227: -2043364854
+      cement_244: 1220923911
+      cement_129: 280165381
+      cement_268: 1514150011
+      cement_44: -1464467178
+      cement_91: -1598694096
+      cement_101: 1471910955
+      cement_123: -514066532
+      cement_158: 898417419
+      cement_75: 1251632346
+      cement_132: -1237285609
+      cement_150: 1124971725
+      cement_155: 783983375
+      cement_136: 77985486
+      cement_263: 547082973
+      cement_124: 242706675
+      cement_183: 571587477
+      cement_94: -1731987921
+      cement_235: 615751719
+      cement_262: 1768018364
+      cement_82: 989761134
+      cement_246: -1525315737
+      cement_146: -906342440
+      cement_99: 1113008862
+      cement_42: 823153642
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
