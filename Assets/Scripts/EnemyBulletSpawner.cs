@@ -5,6 +5,7 @@ using UnityEngine;
 public class EnemyBulletSpawner : MonoBehaviour
 {
     [SerializeField] private GameObject bullet;
+
     private float timer = 0.0f;
 
     private void FixedUpdate()

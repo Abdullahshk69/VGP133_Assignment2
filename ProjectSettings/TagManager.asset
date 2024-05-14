@@ -8,6 +8,7 @@ TagManager:
   - Enemy
   - Parry
   - Boundary
+  - Lever
   layers:
   - Default
   - TransparentFX

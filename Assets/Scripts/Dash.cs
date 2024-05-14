@@ -19,11 +19,21 @@ public class Dash : MonoBehaviour
 
     private Vector2 dashingDirection;
     private bool isDashing;
+    private bool canDash = true;
+    private SpriteRenderer[] hairParts;
+    private SpriteRenderer[] hairAnchorParts;
+
+    private void Start()
+    {
+        hairParts = hair.GetComponentsInChildren<SpriteRenderer>();
+        hairAnchorParts = hairParts[hairParts.Length - 1].GetComponentsInChildren<SpriteRenderer>();
+    }
 
     private void Update()
     {
-        if (Input.GetButtonDown("Dash"))
+        if (Input.GetButtonDown("Dash") && canDash)
         {
+            canDash = false;
             playerMovement.enabled = false;
             isDashing = true;
             trailRenderer.emitting = true;
@@ -32,7 +42,17 @@ public class Dash : MonoBehaviour
             Color color;
             if (ColorUtility.TryParseHtmlString("#32ACAB", out color))
             {
-                hairSpriteRenderer.color = color;
+                for (int i = 0; i < hairParts.Length; i++)
+                {
+                    hairParts[i].color = color;
+                }
+
+                for (int i = 1; i < hairAnchorParts.Length; i++)
+                {
+                    hairAnchorParts[i].color = color;
+                }
+
+                //hairSpriteRenderer.color = color;
             }
 
             if (dashingDirection == Vector2.zero)
@@ -55,16 +75,32 @@ public class Dash : MonoBehaviour
         trailRenderer.emitting = false;
         isDashing = false;
         playerMovement.enabled = true;
-        Color color;
-        if (ColorUtility.TryParseHtmlString("#AC3232", out color))
-        {
-            hairSpriteRenderer.color = color;
-        }
-
+        rb.velocity = new Vector2(rb.velocity.x, 0);
     }
 
     private void FixedUpdate()
     {
         animator.SetInteger("State", 4);
+    }
+
+    public void ResetDash()
+    {
+        if(!isDashing)
+        {
+            canDash = true;
+            Color color;
+            if (ColorUtility.TryParseHtmlString("#AC3232", out color))
+            {
+                for (int i = 0; i < hairParts.Length; i++)
+                {
+                    hairParts[i].color = color;
+                }
+
+                for (int i = 1; i < hairAnchorParts.Length; i++)
+                {
+                    hairAnchorParts[i].color = color;
+                }
+            }
+        }
     }
 }

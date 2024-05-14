@@ -1,47 +1,45 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class Health : MonoBehaviour
 {
+    [SerializeField] private string playerName;
     [SerializeField] private int maxHealth;
+    [SerializeField] TextMeshProUGUI playerHealth = null;
     private int health;
-
-    [SerializeField] private float iFrame;  // To prevent taking more damage
-
-    [SerializeField] private PlayerMovement playerMovement;
 
     private void Start()
     {
         health = maxHealth;
+        if (playerHealth != null)
+        {
+            playerHealth.text = playerName + ": " + health;
+        }
+
     }
 
     public void TakeDamage(int damage)
     {
         health -= damage;
+        if(playerHealth != null)
+        {
+            playerHealth.text = playerName + ": " + health;
+        }
 
         if (health <= 0)
         {
             if (tag == "Player")
             {
-                playerMovement.enabled = false;
-                GameManager.Instance.GameOver();
+                GameManager.Instance.LoseScreen();
             }
 
             else
             {
+                GameManager.Instance.EnemyDecrement();
                 Destroy(gameObject, 0.9f);
             }
-        }
-    }
-
-    public void Heal(int heal)
-    {
-        health += heal;
-
-        if (health > maxHealth)
-        {
-            health = maxHealth;
         }
     }
 }

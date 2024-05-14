@@ -53,7 +53,7 @@ public class BulletMovement : MonoBehaviour
 
         else if (collision.gameObject.tag == "Enemy" && targetEnemy)
         {
-            Destroy(collision.gameObject);
+            collision.gameObject.GetComponent<Health>().TakeDamage(1);
             Destroy(gameObject);
         }
 
